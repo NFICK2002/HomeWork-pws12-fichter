@@ -1,0 +1,28 @@
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	color: rgba(102, 255, 51, 0.9);
+	line-height: 25px;
+}
+
+.container{
+	background-color: rgba(255, 0, 201, 0.5);
+	padding-top: 50px;
+	padding-bottom: 50px;
+	box-sizing: border-box;
+	border-radius: 5px;
+	margin-top: 420px;
+	/*opacity: 0.5;*/
+}
+
+.knopka{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 10px;
+}
+
+button{
+	margin-top: 5px;
+	margin-left: 35px;
+}
